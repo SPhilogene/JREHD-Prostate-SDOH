@@ -14,7 +14,7 @@ Data on Cancer Incidence by Census Tract, 2013-2017 was obtained from the New Yo
 
 **Demographic Data**
 
-American Community Survey 5-Year Data for 2015 was accessed using the web-based API. Users must request an access key to extract data from the Census API (https://www.census.gov/data/developers.html). Variables were collected from 30 the following data tables:
+American Community Survey 5-Year Data for 2015 was accessed using the web-based API. Users must request an access key to extract data from the [Census API](https://www.census.gov/data/developers.html). Variables were collected from 30 the following data tables:
 
 | Table ID | Table Title |
 | ------------- | ------------- |
@@ -51,22 +51,22 @@ American Community Survey 5-Year Data for 2015 was accessed using the web-based 
 
 **Health Data**
 
-Health outcomes data was obtained from the Center for Disease Control and Prevention PLACES: Local Data for Better Health online data repository (https://www.cdc.gov/places/tools/data-portal.html).
+Health outcomes data was obtained from the Center for Disease Control and Prevention [PLACES: Local Data for Better Health](https://www.cdc.gov/places/tools/data-portal.html) online data repository .
 
 [***Shapefiles***](https://github.com/SPhilogene/JREHD-Prostate-SDOH/tree/main/Shapefiles)
 
 **Environmental Data**
 
 Shapefiles for landfills and remediation sites were retrieved from the NYS GIS Clearinghouse:
-Active Landfills (https://data.gis.ny.gov/datasets/nysdec::active-landfills/about), Inactive Solid Waste Landfills (https://data.gis.ny.gov/datasets/db9225d3962c4f8891fb72231b752ec5_31/about), and Remediation Sites (https://data.gis.ny.gov/datasets/nysdec::remediation-sites/about).
+[Active Landfills](https://data.gis.ny.gov/datasets/nysdec::active-landfills/about), [Inactive Solid Waste Landfills](https://data.gis.ny.gov/datasets/db9225d3962c4f8891fb72231b752ec5_31/about), and [Remediation Sites](https://data.gis.ny.gov/datasets/nysdec::remediation-sites/about).
 
-Air quality information including emissions data, ambient concentrations and health-effect results were obtained through the US Environmental Protection Agency’s 2017 Air Toxics Screening Assessment (https://www.epa.gov/AirToxScreen/2017-airtoxscreen-assessment-results).  State Summary files for New York State available in two parts in an MS Access ZIP file format.
+Air quality information including emissions data, ambient concentrations and health-effect results were obtained through the US Environmental Protection Agency’s [2017 Air Toxics Screening Assessment](https://www.epa.gov/AirToxScreen/2017-airtoxscreen-assessment-results). State Summary files for New York State available in two parts in an MS Access ZIP file format.
 
 **Miscellaneous**
 
-Shapefiles for NYS census tracts—with GEOID provided for joins—were obtained from the US Census Bureau, Geography Division 2015 TIGER/Line Shapefiles for Census Tracts - https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2015&layergroup=Census+Tracts
+Shapefiles for NYS census tracts—with GEOID provided for joins—were obtained from the US Census Bureau, Geography Division 2015 TIGER/Line Shapefiles for [Census Tracts](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2015&layergroup=Census+Tracts).
 
-Shapefiles for New York City census tracts (clipped to shoreline) (https://www.nyc.gov/assets/planning/download/zip/data-maps/open-data/nyct2010_15d.zip) and Shapefiles for New York City borough boundaries (https://www.nyc.gov/assets/planning/download/zip/data-maps/open-data/nybb_15d.zip) were obtained from the NYC Department of City Planning’s BYTES of the BIG APPLE™ Archive.
+Shapefiles for [New York City census tracts (clipped to shoreline)](https://www.nyc.gov/assets/planning/download/zip/data-maps/open-data/nyct2010_15d.zip) and Shapefiles for New York City [borough boundaries](https://www.nyc.gov/assets/planning/download/zip/data-maps/open-data/nybb_15d.zip) were obtained from the NYC Department of City Planning’s BYTES of the BIG APPLE™ Archive.
 
 ## Code
 
